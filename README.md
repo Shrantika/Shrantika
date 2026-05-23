@@ -38,5 +38,8 @@ AI & Data Analytics student focused on:
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/shrantika-marik-4a0920265/ 
-Email: shrantika@134343.com
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/shrantika-marik-4a0920265/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrantika@134343@gmail.com)
