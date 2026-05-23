@@ -1,5 +1,9 @@
-# Hi, I'm Shrantika 👋
+<h1 align="center">Hi 👋, I'm Shrantika</h1>
+<h3 align="center">AI & Data Analytics Student | Product Analytics | ML Enthusiast</h3>
 
+---
+
+## 👩‍💻 About Me
 AI & Data Analytics student focused on:
 - Product Analytics
 - A/B Testing
